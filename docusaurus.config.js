@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Belize Forest Department',
-  tagline: 'Wild Eyes Project',
+  title: 'Wild Eyes',
+  tagline: '',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here with
-  url: 'https://your-jaguar-site.example.com',
+  url: 'https://we-guide.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is servedd
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/', 
@@ -21,7 +21,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'wild eyes', // Usually your repo name.
+  projectName: 'we-guide', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
