@@ -41,10 +41,10 @@ To view all of the camera checks within a subproject:
 ## Edit an existing Subproject
 To edit an existing Subproject:
 
-1. Click the green edit icon to the right of any subproject record. 
+1. Click the green edit icon to the right of any subproject record.
+![](../deeper-look-images/subprojects/edit-existing-subproject.png) 
 
 2. Once your edits have been made, click on Save Changes to save your edits.
-![](../deeper-look-images/subprojects/edit-existing-subproject.png)
 
 
 ## Search for a subproject

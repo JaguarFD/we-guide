@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 ---
 
 # Locations
@@ -58,4 +58,4 @@ To edit an existing location:
 Search for a location by name by typing in criteria in the search box in the left hand corner of the location table.
 
 ## Sort locations
-Click on the column name to sort in ascending or descending order. The column that is being used to sort cameras will display a blue arrow next to the column header.
+Click on the column name to sort in ascending or descending order. The column that is being used to sort locations will display a blue arrow next to the column header.
