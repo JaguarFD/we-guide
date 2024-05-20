@@ -1,0 +1,9 @@
+{
+  "label": "The Basics",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "These articles will give you a basic introduction to how data is structured in Wild Eyes, the most popular features, and how you can begin sharing with your team" 
+    
+  }
+}
