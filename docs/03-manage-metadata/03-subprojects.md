@@ -52,3 +52,12 @@ Search for a subproject by name by typing in the search box in the left hand cor
 
 ## Sort subprojects
 Click on the column name to sort in ascending or descending order. The column that is being used to sort suprojects will display a blue arrow next to the column header.
+
+## Bulk subproject uploads
+You can easily create multiple subprojects by uploading a CSV template with the necessary information. Start by recording subproject details in a blank template as you set up cameras. Click on the "Download CSV Template" button to download a blank subproject template to get started.  
+
+Before you upload a bulk subproject template, please remember to:
+- Enter values for all required fields in the template
+- If a default value is noted, please enter the default value even if the field is not required.
+- The file must be a csv file.
+- Check **[subproject template guide](https://docs.google.com/spreadsheets/d/1IOTO1-rlP5XJVvs1DhTMH_Ir7rAp8GW7/edit#gid=1634945638)** for full details.

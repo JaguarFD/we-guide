@@ -70,5 +70,13 @@ You can easily create multiple camera checks by uploading a CSV template with th
 Before you upload a bulk camera check template, please remember to:
 - Enter values for all required fields in the template
 - If a default value is noted, please enter the default value even if the field is not required.
+- Check **[camera check template guide](https://docs.google.com/spreadsheets/d/1IOTO1-rlP5XJVvs1DhTMH_Ir7rAp8GW7/edit#gid=908943824)** for full details.
 
+To upload your data:
+
+1. Click on the Import CSV button.
+2. Then select your CSV file containing the camera check data.
+3. Then click the "Submit import data" link that appears next to the "Import CSV" button to upload.
+
+<!-- Picture Here -->
 ![](../deeper-look-images/camera-checks/batch-bulk-upload-camera-checks.png) 

@@ -57,5 +57,24 @@ To edit an existing location:
 ## Search for a location
 Search for a location by name by typing in criteria in the search box in the left hand corner of the location table.
 
+
 ## Sort locations
 Click on the column name to sort in ascending or descending order. The column that is being used to sort locations will display a blue arrow next to the column header.
+
+
+## Bulk location uploads
+You can easily create multiple locations by uploading a CSV template with the necessary information. Start by recording location details in a blank template as you set up cameras. Click on the "Download CSV Template" button to download a blank location template to get started. 
+
+Before you upload a bulk location template, please remember to:
+- Enter values for all required fields in the template
+- If a default value is noted, please enter the default value even if the field is not required.
+- The file must be a csv file.
+- Check **[location template guide](https://docs.google.com/spreadsheets/d/1IOTO1-rlP5XJVvs1DhTMH_Ir7rAp8GW7/edit#gid=1160644785)** for full details.
+
+To upload your CSV file:
+
+1. Click on the "Import CSV" button.
+2. Select the CSV file that has the location details.
+3. Then click the "Submit import data" link that appears next to the "Import CSV" button to upload.
+
+![](../getting-started-images/locations/batch-bulk-upload.png)

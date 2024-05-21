@@ -42,3 +42,21 @@ Search for a camera by name by typing in criteria in the search box in the left 
 
 ## Sort cameras
 Click on the column name to sort in ascending or descending order. The column that is being used to sort cameras will display a blue arrow next to the column header.
+
+## Bulk camera check uploads
+You can easily create multiple cameras by uploading a CSV template with the necessary information. Start by recording camera details in a blank template. Click on the "Download CSV Template" button to download a blank camera check template to get started. 
+
+Before you upload a bulk camera template, please remember to:
+- Enter values for all required fields in the template
+- If a default value is noted, please enter the default value even if the field is not required.
+- The file must be a csv file.
+- Check **[camera template guide](https://docs.google.com/spreadsheets/d/1IOTO1-rlP5XJVvs1DhTMH_Ir7rAp8GW7/edit#gid=544522265)** for full details.
+
+To upload your CSV file:
+
+1. Click on the "Import CSV" button.
+2. Select the CSV file that has the camera details.
+3. Then click the "Submit import data" link that appears next to the "Import CSV" button to upload.
+
+<!-- Picture Here -->
+![](../getting-started-images/cameras/batch-or-bulk-upload.png)  
