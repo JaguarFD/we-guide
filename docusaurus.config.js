@@ -81,11 +81,33 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'User Guide',
+            title: 'Help',
             items: [
               {
+                label: 'FAQ',
+                to: '/',
+              },
+              {
                 label: 'Get Started',
+                to: '/docs/category/the-basics',
+              },
+            ],
+          },
+          {
+            title: 'Resources',
+            items: [
+              {
+                label: 'Terms of Use',
                 to: '/docs/intro',
+              },
+            ],
+          },
+          {
+            title: 'Learn More',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
@@ -98,27 +120,9 @@ const config = {
               },
             
             ],
-          },
-          {
-            title: 'Our Official website',
-            items: [
-              {
-                label: 'Site',
-                href: 'https://forest.gov.bz/',
-              },            
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
-          },
+          },         
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} , Belize Forest Department.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Wild Eyes. All Rights Reserved.`,
       },
       prism: {
         theme: prismThemes.github,
