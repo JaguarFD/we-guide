@@ -13,7 +13,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here with
-  url: 'https://we-guide.netlify.app',
+  url: 'https://wild-eyes-docs.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is servedd
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/', 
@@ -98,7 +98,7 @@ const config = {
             items: [
               {
                 label: 'Terms of Use',
-                to: '/docs/intro',
+                to: '/',
               },
             ],
           },
