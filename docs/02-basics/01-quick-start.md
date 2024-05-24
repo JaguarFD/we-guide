@@ -59,7 +59,7 @@ One of the advantages of using Wild Eyes is that you'll be helping to build one 
 - A **camera check** is a unique spatial and temporal placement of a camera trap device to sample wildlife. For example a camera trap placed at location x,y between January 1-15, 2024 is a different camera check than the same (or different) camera device placed at the same location but between January 1-15, 2023.
 - A camera **location** is the physical position in space (UTM format) of a camera trap device.
 
-Visit the Wild Eyes **[glossary](/docs/the-basics/quick-start-guide#learn-wild-eyes-terms)** for additional definitions.
+Visit the Wild Eyes **[glossary](/docs/glossary)** for additional definitions.
 
 ## Structure your projects
 
