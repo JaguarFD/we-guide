@@ -24,7 +24,23 @@ Organization roles are listed and described below:
     - Organization viewer: Can view all data and details in the organization but cannot edit anything. Has and inherited Viewer role in all projects within the organization
 
 Below is a table illustrating the  specific permissions of each role (if access is allowed it will be marked with an "X")
-    ![](./permission-images/org-permissions.png)
+|                                 | Admin | Editor | Viewer |
+|---------------------------------|:-----:|:------:|:------:|
+| Add Admins                      |   X   |        |        |
+| Add Editors, Viewers            |   X   |    X   |        |
+| Change user role                |   X   |        |        |
+| Revoke user                     |   X   |        |        |
+| Edit organization               |   X   |    X   |        |
+| Create cameras                  |   X   |    X   |        |
+| View cameras                    |   X   |    X   |    X   |
+| Create locations                |   X   |    X   |        |
+| Edit locations                  |   X   |    X   |        |
+| View locations                  |   X   |    X   |    X   |
+| Create project                  |   X   |    X   |        |
+| Edit projects                   |   X   |        |        |
+| View all projects               |   X   |    X   |    X   |
+| Download data from all projects |   X   |    X   |        |
+
 
 
 ## Project Roles
@@ -37,7 +53,37 @@ A brief description of each role is described below:
     - Project viewer: Can view all data and details in the project but cannot edit anything.
 
 Below is a table illustrating the specific permissions of each role (if access is allowed it will be marked with an "X")
-    ![](./permission-images/proj-permissions.png)
+
+|                                    | Admin | Editor | Contributor | Tagger | Viewer |
+|------------------------------------|:-----:|:------:|:-----------:|:------:|:------:|
+| Add Admins, Editors                |   X   |        |             |        |        |
+| Add Viewers, Contributors, Taggers |   X   |    X   |             |        |        |
+| Change user role                   |   X   |        |             |        |        |
+| Revoke user                        |   X   |        |             |        |        |
+| Create cameras                     |   X   |    X   |      X      |        |        |
+| Edit cameras                       |   X   |    X   |      X      |        |        |
+| View cameras                       |   X   |    X   |      X      |    X   |    X   |
+| Create locations                   |   X   |    X   |      X      |        |        |
+| Edit locations                     |   X   |    X   |      X      |        |        |
+| View locations                     |   X   |    X   |      X      |    X   |    X   |
+| Create project                     |   X   |    X   |      X      |        |        |
+| Edit project                       |   X   |    X   |      X      |        |        |
+| View project                       |   X   |    X   |      X      |    X   |    X   |
+| Create subprojects                 |   X   |    X   |             |        |        |
+| Edit subprojects                   |   X   |    X   |             |        |        |
+| View subprojects                   |   X   |    X   |      X      |    X   |    X   |
+| Create camera checks               |   X   |    X   |      X      |        |        |
+| Edit camera checks                 |   X   |    X   |      X      |        |        |
+| View camera checks                 |   X   |    X   |      X      |    X   |    X   |
+| Upload images                      |   X   |    X   |      X      |        |        |
+| Create identifications             |   X   |    X   |      X      |        |        |
+| Edit identifications               |   X   |    X   |      X      |    X   |        |
+| View identifications               |   X   |    X   |      X      |    X   |    X   |
+| Edit timestamps on images          |   X   |    X   |      X      |        |        |
+| Highlight images                   |   X   |    X   |      X      |    X   |        |
+| Delete images                      |   X   |    X   |             |        |        |
+| Download data                      |   X   |    X   |      X      |        |        |
+
 
 ## Inherited roles
 
