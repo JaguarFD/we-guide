@@ -14,7 +14,7 @@ A Subproject can be created similar to how you create camera or location details
 2. Click on the "Add New Subproject" button or the "Insert" button.
 
 3. After clicking the "Insert" button, a form will appear.
-![](../deeper-look-images/subprojects/nav-subproject.png)
+![](../getting-started-images/subprojects/nav-subproject.png)
 
 4. Fill out the "Create New Subproject" form (Required fields are marked with an asterik*)
     
@@ -23,7 +23,7 @@ A Subproject can be created similar to how you create camera or location details
     - Description - A short paragaph describing the purpose of the subproject. ***(Optional)***
 
 5. Click the blue "Create" button to finalize your changes.
-![](../deeper-look-images/subprojects/create-subproj.png)
+![](../getting-started-images/subprojects/create-subproj.png)
 
 
 ## View camera checks within a subproject
@@ -34,7 +34,7 @@ To view all of the camera checks within a subproject:
 2. Click on the name of the subproject in the Subproject Name column.
 
 3. A screen will open displaying the camera checks assigned to that subproject. You can sort and search through camera checks in this table.
-![](../deeper-look-images/subprojects/view-camera-checks-within-subproject.png)  
+![](../getting-started-images/subprojects/view-camera-checks-within-subproject.png)  
 
 
 
@@ -42,7 +42,7 @@ To view all of the camera checks within a subproject:
 To edit an existing Subproject:
 
 1. Click the green edit icon to the right of any subproject record.
-![](../deeper-look-images/subprojects/edit-existing-subproject.png) 
+![](../getting-started-images/subprojects/edit-existing-subproject.png) 
 
 2. Once your edits have been made, click on Save Changes to save your edits.
 
