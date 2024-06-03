@@ -3,7 +3,7 @@ sidebar_position: 4
 ---
 
 # Camera Checks 
-A camera check refers to placing a camera at a specific location (x, y) for a set period. Multiple camera checks can be associated with a single location.
+The extraction of data from a single camera positioned at a designated location (x, y) for a defined duration. Multiple camera checks can be associated with a single location.
 
 ## Create a Camera Check
 ***Note:*** *Before creating a new camera check, you must enter all your camera, and location details prior.* 
