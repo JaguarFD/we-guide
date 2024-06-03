@@ -25,24 +25,6 @@ To create a location in Project Dashboard:
 ![](../getting-started-images/locations/create-location.png)
 <!-- Picture Here -->
 
-## Create a location in the Organization workspace
-
-To create a location in the Organization workspace:
-
-1. Navigate to the Organization workspace
-
-2. Click on the "Organization details" button.
-
-3. Then select "Locations".
-![](../getting-started-images/locations/nav-locations.png)
-
-4. Click on the blue "Add New Camera" button or the "Insert" button.
-
-5. Fill out the "Create New Location" form. Required fields are marked with an asterisk*
-
-6. Click the blue "Create" button to finalize your changes.
-
-
 ## Edit an existing location
 To edit an existing location:
 
