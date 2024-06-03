@@ -10,7 +10,7 @@ A location is the physical position (UTM format) of a camera trap device. In pro
 ## Create a location in Project Dashboard
 To create a location in Project Dashboard:
 
-1. Click on the "Locations" tab
+1. Click on "Details" on the left side bar, then "Locations" tab
 
 2. Click on the blue "Add New Camera" button or the "Insert" button. 
 ![](../getting-started-images/locations/insert-location.png)
