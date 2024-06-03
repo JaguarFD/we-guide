@@ -45,15 +45,6 @@ Then you will be redirected to page where you can add camera. If there is no inf
 ![](../getting-started-images/cameras/create-camera-in-org-page.png) 
 
 
-## Create and manage location details
-
-Wild Eyes also requires each camera checks to be associated witha location. You can manage camera metadata in the Organization workspace. Click on the **Organization details** button, then select **Locations**. If a table of data is not displayed, click on the blue "Add New Location" button. Otherwise, click the "Insert" button. Enter All required fields, which are marked with an asterisk. You can edit this information at any time by returning to this page and selecting edit icon under "Actions" column. Visit the **Wild Eyes Glossary** to learn more about the fields in this form.
-
-![](../getting-started-images/locations/insert-location.png)
-
-![](../getting-started-images/locations/create-location.png)
-
-
 ## Create a new project
 
 **To create a new project:** <br/>
