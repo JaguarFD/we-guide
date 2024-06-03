@@ -9,14 +9,10 @@ Whenever you upload data to Wild Eyes, it will be associated with a project. A p
 
 ## Navigating the project dashboard
 **Summary** tab: The project summary tab displays an overview of the data within that project. <br/>
-**Cameras** tab: Here you'll find created cameras which can be connected to any camera checks within any project in that organization. <br/>
-**Locations** tab: This is where you will create, view, edit a location. <br/>
-**Details** tab:  This is where you can set and edit project details including the objectives, start and end date. This is also where you can add and edit Subprojects and Camera Checks information (required fields). <br />
+**Details** tab:  This is where you can set and edit project details including the objectives, start and end date. This is also where you can add and edit Subprojects, Locations and Camera Checks information (required fields). <br />
 **Upload** tab: In this tab, you can upload images belonging to the project. Images are uploaded per camera checks. <br/>
 **Identify** tab: Images upload to the project will appear in this tab. These images can be filterd by location, camera checks, species and subprojects. <br/>
 **Catalogued** tab: All data that has been reviewed by a user will be stored in this section. <br />
-**Individuals** tab: The individuals tab will contain images of known (recorded) individuals (jaguars, tapir and other identified individuals).<br/>
-**Species** tab: The species tab will contain a a list of different recorded species. <br/>
 **Users** tab: This button will open a screen where you can add users to your project. <br/>
 
 
