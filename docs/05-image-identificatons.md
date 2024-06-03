@@ -16,10 +16,10 @@ sidebar_position: 5
     - **Camera checks**: The camera check option is enabled after selecting a location name.
     - **Identified**: You can also filter indentified or unidentified images.
     
-    ![](./deeper-look-images/identify-images/filter.png)
+    ![](./getting-started-images/identify-images/filter.png)
 
 3. After selecting your filter options, click on the blue "Fetch Data" button to retrieve image and its metadata.
-    ![](./deeper-look-images/identify-images/fetch-data.png)
+    ![](./getting-started-images/identify-images/fetch-data.png)
 
 
 ## Add or edit identifications
@@ -30,7 +30,7 @@ sidebar_position: 5
     - **Remarks**
     - **Add animal** button: You can add another species in case there are more than one species in the image.
 
-    ![](./deeper-look-images/identify-images/edit-single-image.png)
+    ![](./getting-started-images/identify-images/edit-single-image.png)
 
 2. The Species field will be empty if the image is not yet identified. Fill out the species identication form. Then click the blue **Submit** button. If the image is already identified, then you can edit in this same form and save your changes.
 
@@ -43,18 +43,18 @@ Navigate to the Metadata tab  of any individual image. It displays the following
     - **Photo name**: The unique name of the image assigned prior to upload.
     - **Image ID**:  The unique ID assigned to each image uploaded.  
 <!-- Picture Here -->
-    ![](./deeper-look-images/identify-images/image-metadata.png)  
+    ![](./getting-started-images/identify-images/image-metadata.png)  
 
 
 ## Update the date and time
 You can fix incorrect date/time stamps caused by camera failures or metadata issues. Navigate to the metadata tab of any individual image and click on green **Edit date** button on the top right corner.
 
-    ![](./deeper-look-images/identify-images/edit-image-date2.png) 
+    ![](./getting-started-images/identify-images/edit-image-date2.png) 
 
 
 A dialogue box will appear and display two tabs:
     - **Single Edit**: The new date/time will be applied to the image displayed only.
-    ![](./deeper-look-images/identify-images/edit-image-date-single.png) 
+    ![](./getting-started-images/identify-images/edit-image-date-single.png) 
 
     - **Batch edit**:  The new date/time will be applied to the image displayed AND the timestamps of all other images within the same camera check will shift proportionally.
     ![](./deeper-look-images/identify-images/edit-image-date-batch.png) 
@@ -76,13 +76,13 @@ Navigate to the *Individuals* tab of any individual image to add specific indivi
 
 
 <!-- Picture Here -->
-![](./deeper-look-images/identify-images/add-individuals.png)
+![](./getting-started-images/identify-images/add-individuals.png)
 
 
 ## Bulk identifications
 1. Quickly select multiple images in the thumbnail view by clicking on the circle check mark on the top left corner of the image. 
     
-    ![](./deeper-look-images/identify-images/selecting-several.png)  
+    ![](./getting-started-images/identify-images/selecting-images.png)  
 
 
 2. A green bar with additional actions will appear at the bottom center of the screen:
@@ -92,4 +92,4 @@ Navigate to the *Individuals* tab of any individual image to add specific indivi
     - The selected images can also be deleted. Exercise caution when deleting images (all image metadata, including the image will be permanently deleted).
     - Click the X icon to deselect the selected images
 
-    ![](./deeper-look-images/identify-images/multiple-images.png) 
+    ![](./getting-started-images/identify-images/multiple-images.png) 
