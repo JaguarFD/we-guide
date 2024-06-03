@@ -13,7 +13,7 @@ Camera checks can be created similar to how you create camera or location detail
 1. From your project dashboard, navigate to the "Details" tab 
 2. Click on the "Camera Checks" tab.
 3. Click on the blue "Add New Camera" button or the "Insert" button.
-![](../deeper-look-images/camera-checks/nav-cam-checks.png)
+![](../getting-started-images/camera-checks/nav-cam-checks.png)
 
 4. Fill out the "Create New Camera Check" form
 
@@ -45,17 +45,17 @@ Camera checks can be created similar to how you create camera or location detail
 
 
 5. Click the blue "Create" button to finalize your changes. <br/>
-![](../deeper-look-images/camera-checks/create-cam.png) 
+![](../getting-started-images/camera-checks/create-cam.png) 
 
 
 ## Edit an existing camera check
 To edit an existing camera check:
 
 1. Click the green edit icon to the right of any camera check record. <br/>
-![](../deeper-look-images/camera-checks/edit-existing-camera-check.png)
+![](../getting-started-images/camera-checks/edit-existing-camera-check.png)
 
 2. Once your edits have been made, click on Save Changes to save your edits. <br/>
-![](../deeper-look-images/camera-checks/save-changes.png)
+![](../getting-started-images/camera-checks/save-changes.png)
 
 
 ## Search for a camera check
@@ -79,4 +79,4 @@ To upload your data:
 3. Then click the "Submit import data" link that appears next to the "Import CSV" button to upload.
 
 <!-- Picture Here -->
-![](../deeper-look-images/camera-checks/batch-bulk-upload-camera-checks.png) 
+![](../getting-started-images/camera-checks/batch-bulk-upload-camera-checks.png) 
