@@ -57,7 +57,7 @@ A dialogue box will appear and display two tabs:
     ![](./getting-started-images/identify-images/edit-image-date-single.png) 
 
     - **Batch edit**:  The new date/time will be applied to the image displayed AND the timestamps of all other images within the same camera check will shift proportionally.
-    ![](./deeper-look-images/identify-images/edit-image-date-batch.png) 
+    ![](./getting-started-images/identify-images/edit-image-date-batch.png) 
 
 ## Higlight an image
 When viewing an image in large preview mode, you can easily flag it as a favorite for quick access later. In the identification panel, click the Star icon above the word "Highlight" to mark the image.
