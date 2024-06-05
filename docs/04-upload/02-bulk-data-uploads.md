@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 # Bulk data uploads
@@ -52,7 +52,7 @@ To upload your camera-check.csv file:
 3. Then click the "Submit import data" link that appears next to the "Import CSV" button to upload.
 
 <!-- Picture Here -->
-![](../deeper-look-images/camera-checks/batch-bulk-upload-camera-checks.png) 
+![](../getting-started-images/camera-checks/batch-bulk-upload-camera-checks.png) 
 
 
 
@@ -74,4 +74,4 @@ To upload your catalogued data (image.csv):
 ***Note:*** *Report any issues encountered.*
 
 <!-- Picture Here -->
-![](../deeper-look-images/catalogued/cataloguedImport.png)
+![](../getting-started-images/catalogued/cataloguedImport.png)
