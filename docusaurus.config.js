@@ -8,12 +8,12 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Wild Eyes',
-  tagline: 'Learn how to manage your camera trap data with Wild Eyes.',
+  title: 'Belize Camera Trap Database',
+  tagline: 'Learn how to manage your camera trap data with BCTD.',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here with
-  url: 'https://wild-eyes-docs.netlify.app',
+  url: 'https://belizecameratrap-docs.netlify.app',
   // Set the /<baseUrl>/ pathname under which your site is servedd
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/', 
@@ -25,6 +25,10 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+
+  customFields: {
+    shortTitle: 'BCTD',
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
