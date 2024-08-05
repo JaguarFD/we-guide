@@ -2,9 +2,12 @@
 sidebar_position: 1
 ---
 
+import Title from '@site/src/components/TitleComponent';
+
+
 # Quick start guide   
 
-Wild Eyes is a cloud-based platform for managing, analyzing and sharing camera trap data. The platform is full of features and tools to help you process images and derive meaninful insights. If you're just getting started, here's a quick overview of some of the most important things for you to know. 
+<Title/> is a cloud-based platform for managing, analyzing and sharing camera trap data. The platform is full of features and tools to help you process images and derive meaninful insights. If you're just getting started, here's a quick overview of some of the most important things for you to know. 
 
 
 ## Create an account
@@ -50,7 +53,7 @@ After verifying your email, you will be successfully signed in. However, at this
 <!-- Picture Here -->
 ![](../getting-started-images/sign-in-or-create-account/signedin.png)
 
-## Learn Wild Eyes Terms
+## Learn <Title/> Terms
 One of the advantages of using Wild Eyes is that you'll be helping to build one of the largest collections of camera trap data in Belize. A key consideration in building this database is ensuring that all the data submitted to Wild Eyes is standardized. Since Wild Eyes terminology may differ from what you're used to using, we recommend taking a few moments to review key terms used in Wild Eyes:
 
 - An **organization** is a group or entity with one or more people that share a particular purpose and objectives.
