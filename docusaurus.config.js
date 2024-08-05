@@ -126,7 +126,7 @@ const config = {
             ],
           },         
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Wild Eyes. All Rights Reserved.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Belize Camera Trap Database. All Rights Reserved.`,
       },
       prism: {
         theme: prismThemes.github,

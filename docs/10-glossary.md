@@ -2,8 +2,10 @@
 sidebar_position: 10
 ---
 
+import Title from '@site/src/components/TitleComponent';
+
 # Glossary 
-Although terminology may differ between organizations, Wild Eyes defines terms as described here:
+Although terminology may differ between organizations, <Title/> defines terms as described here:
 
 **Cameras**: Autonomous camera trap devices triggered by motion and/or heat. The same camera can be used at different locations and times.
 

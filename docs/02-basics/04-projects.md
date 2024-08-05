@@ -2,9 +2,11 @@
 sidebar_position: 1
 ---
 
+import Title from '@site/src/components/TitleComponent';
+
 # Project Overview
 
-Whenever you upload data to Wild Eyes, it will be associated with a project. A project consists of one or more camera deployments that share a specific objective and methodology. In Wild Eyes, the project dashboard allows you to manage, edit, and review metadata related to deployments, and images. 
+Whenever you upload data to <Title/>, it will be associated with a project. A project consists of one or more camera deployments that share a specific objective and methodology. In Wild Eyes, the project dashboard allows you to manage, edit, and review metadata related to deployments, and images. 
 
 
 ## Navigating the project dashboard

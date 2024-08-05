@@ -2,12 +2,14 @@
 sidebar_position: 2
 ---
 
+import Title from '@site/src/components/TitleComponent';
+
 # Bulk data uploads
-You can bring your catalogued data into Wild Eyes.
+You can bring your catalogued data into <Title/>.
 
 
 ## 1. Download the batch upload templates
-To batch upload your catalouged data into Wild Eyes, ensure your data is formatted according to the batch upload template. You will need six templates for a complete batch upload: one each for Project, Camera, Location, Subproject, Camera Check and Image .csv files. To begin migrating your data, download a blank **[batch upload template](https://drive.google.com/drive/folders/12eqhTxTVB35ex1-EFBrUGaBV6gid8Eju)**.
+To batch upload your catalouged data into <Title/>, ensure your data is formatted according to the batch upload template. You will need six templates for a complete batch upload: one each for Project, Camera, Location, Subproject, Camera Check and Image .csv files. To begin migrating your data, download a blank **[batch upload template](https://drive.google.com/drive/folders/12eqhTxTVB35ex1-EFBrUGaBV6gid8Eju)**.
 
 
 ## 2. Complete the templates with your data
@@ -62,7 +64,7 @@ Refer to **[upload images](/docs/upload/upload-images)** page on how to upload y
 
 ## 8. Bulk upload catalogued data
 
-If images uploaded in the **Identify** page have already been identified, organize your data in a CSV file using the correct format. Please refer to the **[Wild Eyes Batch upload guide](https://drive.google.com/drive/folders/14IctEBIenhSC7duImD5uH_f575h3rMwO)** (image_template.csv) for detailed instruction on how to upload your **image metadata**. 
+If images uploaded in the **Identify** page have already been identified, organize your data in a CSV file using the correct format. Please refer to the **[<Title/> Batch upload guide](https://drive.google.com/drive/folders/14IctEBIenhSC7duImD5uH_f575h3rMwO)** (image_template.csv) for detailed instruction on how to upload your **image metadata**. 
 
 To upload your catalogued data (image.csv):
 

@@ -2,6 +2,8 @@
 sidebar_position: 1
 ---
 
+import Title from '@site/src/components/TitleComponent';
+
 # Organization Overview
 Organizations house all of your projects, data and team members in a single place. Within an organization you can create projects.
 
@@ -40,7 +42,7 @@ Wild Eyes requires each camera checks to be associated with a camera. You can ma
 
 ![](../getting-started-images/organization-page/org-details.png)
 
-Then you will be redirected to page where you can add camera. If there is no information displayed click on the blue "Add New Camera" button. If a table exists click the "Insert" button. Enter all required fields, which are marked with an asterisk. You can edit this information at any time by returning to this page and selecting edit icon under "Actions" column . Visit the **Wild Eyes Glossary** to learn more about the fields in this form.
+Then you will be redirected to page where you can add camera. If there is no information displayed click on the blue "Add New Camera" button. If a table exists click the "Insert" button. Enter all required fields, which are marked with an asterisk. You can edit this information at any time by returning to this page and selecting edit icon under "Actions" column . Visit the **<Title/> Glossary** to learn more about the fields in this form.
 
 ![](../getting-started-images/cameras/create-camera-in-org-page.png) 
 

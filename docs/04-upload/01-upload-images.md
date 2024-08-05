@@ -2,10 +2,12 @@
 sidebar_position: 1
 ---
 
+import Title from '@site/src/components/TitleComponent';
+
 # Upload Images
 
 
-## Uploading images to Wild Eyes
+## Uploading images to <Title/>
 Images are linked to their respective camera checks. You can begin uploading by:
 
 1. From your project dashboard, navigate to the "Upload" tab.
