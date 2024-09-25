@@ -38,7 +38,7 @@ You can revoke any user access to an organization by navigating to the **Organiz
 
 
 ## Create and manage camera details
-Wild Eyes requires each camera checks to be associated with a camera. You can manage camera metadata in the Organization workspace. Click on the **Organization details** button, then select **Cameras**. 
+<Title /> requires each camera checks to be associated with a camera. You can manage camera metadata in the Organization workspace. Click on the **Organization details** button, then select **Cameras**. 
 
 ![](../getting-started-images/organization-page/org-details.png)
 

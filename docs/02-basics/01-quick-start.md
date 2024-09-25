@@ -54,7 +54,7 @@ After verifying your email, you will be successfully signed in. However, at this
 ![](../getting-started-images/sign-in-or-create-account/signedin.png)
 
 ## Learn <Title/> Terms
-One of the advantages of using <Title/> is that you'll be helping to build one of the largest collections of camera trap data in Belize. A key consideration in building this database is ensuring that all the data submitted to Wild Eyes is standardized. Since Wild Eyes terminology may differ from what you're used to using, we recommend taking a few moments to review key terms used in <Title/>:
+One of the advantages of using <Title/> is that you'll be helping to build one of the largest collections of camera trap data in Belize. A key consideration in building this database is ensuring that all the data submitted to <Title/> is standardized. Since <Title /> terminology may differ from what you're used to using, we recommend taking a few moments to review key terms used in <Title/>:
 
 - An **organization** is a group or entity with one or more people that share a particular purpose and objectives.
 - A **project** is a set of camera deployments within a limited spatial and temporal boundary. Each project has defined objectives and methods.
@@ -66,7 +66,7 @@ Visit the <Title/> **[glossary](/docs/glossary)** for additional definitions.
 
 ## Structure your projects
 
-Each user in Wildlife Insights is associated with at least one organization and can belong to multiple organizations, and projects. You may be an individual with a few cameras set out on your own property or a data manager at an organization. In any event, thinking through how your data will be managed and shared can help inform how you set up your workspace in Wildlife Insights.
+Each user in <Title/> is associated with at least one organization and can belong to multiple organizations, and projects. You may be an individual with a few cameras set out on your own property or a data manager at an organization. In any event, thinking through how your data will be managed and shared can help inform how you set up your workspace in <Title/>.
 
 ## Upload Data
 
