@@ -12,7 +12,7 @@ Camera checks can be created similar to how you create camera or location detail
 
 1. From your project dashboard, navigate to the "Details" tab 
 2. Click on the "Camera Checks" tab.
-3. Click on the blue "Add New Camera" button or the "Insert" button.
+3. Click on the blue "New Camera Check" button or the "Insert" button.
 ![](../getting-started-images/camera-checks/nav-cam-checks.png)
 
 4. Fill out the "Create New Camera Check" form
